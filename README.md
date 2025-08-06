@@ -55,6 +55,19 @@ Customer churn prediction is crucial for subscription-based and utility business
    - Identified important features   
 
 ---
+## 📁 Project Structure
+
+BCG-X-Churn-Prediction/
+│
+├── Data/                      # All CSV and PDF reference data
+├── images/                    # Visualizations for  plots, and presentations
+├── notebooks/                 # EDA, Feature Engineering, and Modeling Jupyter Notebooks
+├── .gitignore                 # Git ignore config (info/ folder excluded)
+├── certificate.pdf            # Completion certificate
+├── requirements.txt           # List of dependencies
+└── README.md                  # This file
+
+---
 
 ## 📦 Requirements
 
